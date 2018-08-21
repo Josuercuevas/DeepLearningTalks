@@ -1,6 +1,9 @@
-.DS_Store
-*.pyc
 *.so
 *.a
 *.o
 *.d
+*.~
+~.*
+.idea/*
+.idea
+.DS_Store
