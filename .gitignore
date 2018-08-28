@@ -7,3 +7,7 @@
 .idea/*
 .idea
 .DS_Store
+*.pyc
+YZU_workshop_Sept_2018/easy_training/dataset/*
+YZU_workshop_Sept_2018/easy_training/dataset/*/*
+YZU_workshop_Sept_2018/easy_training/model_checkpoints/*
